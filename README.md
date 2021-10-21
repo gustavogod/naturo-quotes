@@ -14,7 +14,7 @@ O projeto foi desenvolvido seguindo os princípios do TDD, com os testes constru
 
 <img src="code-coverage.png" alt="Tabela com informações sobre a cobertura dos casos de teste" />
 
-## Utilização
+## Executar localmente
 
 Para rodar o projeto, primeiramente, é preciso clonar ou fazer o download do [repositório da API](https://github.com/celso-henrique/naruto-quotes-server) e executar os passos descritos no [readme](https://github.com/celso-henrique/naruto-quotes-server#readme). Em seguida, basta clonar ou fazer o download deste repositório, instalar as dependências e iniciar a aplicação.
 ```sh
