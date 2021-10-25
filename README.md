@@ -25,6 +25,16 @@ npm install
 npm start
 ```
 
+## 🛠 Tecnologias utilizadas:
+
+- [React](https://pt-br.reactjs.org)
+- [Styled components](https://styled-components.com)
+- [React testing library](https://testing-library.com/docs/react-testing-library/api/)
+- [Mock Service Worker](https://mswjs.io)
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3.org/TR/CSS/#css) e 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## 🧔 Autor
  <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/13698021?v=4" width="100px;" alt="My profile picture"/>
 
