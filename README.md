@@ -32,7 +32,7 @@ npm start
 - [React testing library](https://testing-library.com/docs/react-testing-library/api/)
 - [Mock Service Worker](https://mswjs.io)
 - [HTML](https://html.spec.whatwg.org/multipage/)
-- [CSS](https://www.w3.org/TR/CSS/#css) e 
+- [CSS](https://www.w3.org/TR/CSS/#css)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🧔 Autor
